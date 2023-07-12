@@ -2,4 +2,5 @@
 
 an AI project using GA or Evolutionary algorithm in python.
 ## 
-for more detail checkout the description file.
+the main code is in game.py file in attachments.
+also for more detail checkout the description file.
